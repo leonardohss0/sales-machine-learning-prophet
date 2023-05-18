@@ -36,3 +36,7 @@ To evaluate the performance of the Prophet model, we use metrics such as mean ab
 
 ## Results
 The forecasting results are saved in the specified output file (predictions.csv). These predictions provide insights into the expected sales for future time periods based on the historical data and the trained Prophet model. Visualizations and graphs can be generated to visualize the predicted sales alongside the actual sales data.
+
+## Documentation
+https://research.facebook.com/blog/2017/2/prophet-forecasting-at-scale/
+https://docs.aws.amazon.com/pt_br/forecast/latest/dg/aws-forecast-recipe-prophet.html
