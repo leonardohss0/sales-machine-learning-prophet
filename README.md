@@ -20,6 +20,7 @@ Prepare your sales data in CSV format. The CSV file should include a date column
 
 ## Data
 The sales data used for this project should be provided in a CSV file. The CSV file should have the following format:
+
 ![image](https://github.com/leonardohss0/sales-machine-learning-prophet/assets/62545078/648df446-701d-4cf8-926e-d167e7696765)
 
 ## Model Training
